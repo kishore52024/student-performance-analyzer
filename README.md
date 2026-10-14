@@ -55,4 +55,7 @@ This project demonstrates Python functions, conditional statements, exception ha
 - Support student search and filtering.
 - Generate PDF reports.
 - Add a Streamlit web interface.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 53b63ac43a4f4637a5e074212da4455ed38ae102
